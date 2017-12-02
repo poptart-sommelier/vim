@@ -10,5 +10,6 @@ set backspace=indent,eol,start
 set wrap
 set linebreak
 set tabstop=4
+set clipboard=unnamedplus
 syntax on
 inoremap ;' <ESC>
