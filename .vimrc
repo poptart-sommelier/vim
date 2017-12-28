@@ -11,5 +11,6 @@ set wrap
 set linebreak
 set tabstop=4
 set clipboard=unnamedplus
+set paste
 syntax on
 inoremap ;' <ESC>
